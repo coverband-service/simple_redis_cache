@@ -1,5 +1,7 @@
 require 'redis'
 
+# This is the firt gem i made.. its very silly
+
 module SimpleRedisCache
 
   extend self
